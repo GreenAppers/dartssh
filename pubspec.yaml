@@ -5,7 +5,7 @@ author: Green Appers, Inc. <greenappers@gmail.com>
 homepage: https://github.com/GreenAppers/dartssh
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: '>=3.0.6 <4.0.0'
 
 dependencies:
   asn1lib: ^0.5.11
